@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">actionDemo</string>
+    <string name="action_favorite">fav</string>
+    <string name="action_settings">settings</string>
+</resources>
